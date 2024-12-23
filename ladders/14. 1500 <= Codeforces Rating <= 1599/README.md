@@ -5,37 +5,37 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|1|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|2|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|3|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|4|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|5|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|6|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|7|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|8|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|9|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|10|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|11|[Caisa and Pylons](http://codeforces.com/problemset/problem/463/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|12|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|13|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|14|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|15|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|16|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|17|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|18|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|19|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|20|[Mashmokh and ACM](http://codeforces.com/problemset/problem/414/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|21|[The Child and Toy](http://codeforces.com/problemset/problem/437/C)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|22|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|23|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|24|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|25|[Fox and Box Accumulation](http://codeforces.com/problemset/problem/388/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|26|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|27|[Escape from Stones](http://codeforces.com/problemset/problem/264/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|28|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|29|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|30|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|31|[Mashmokh and ACM](http://codeforces.com/problemset/problem/414/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|3|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|4|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|5|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|6|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|7|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|8|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|9|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|10|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|11|[Caisa and Pylons](http://codeforces.com/problemset/problem/463/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|12|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|13|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|14|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|15|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|16|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|17|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|18|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|19|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|20|[Mashmokh and ACM](http://codeforces.com/problemset/problem/414/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|21|[The Child and Toy](http://codeforces.com/problemset/problem/437/C)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|22|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|23|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|24|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|25|[Fox and Box Accumulation](http://codeforces.com/problemset/problem/388/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|26|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|27|[Escape from Stones](http://codeforces.com/problemset/problem/264/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|28|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|29|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|30|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|31|[Mashmokh and ACM](http://codeforces.com/problemset/problem/414/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|32|[Dima and Staircase](http://codeforces.com/problemset/problem/272/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|33|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|34|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
