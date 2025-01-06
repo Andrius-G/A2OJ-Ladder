@@ -6,7 +6,7 @@
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
 |<ul><li>- [x] Done</li></ul>|1|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|2|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|3|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|4|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|5|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
